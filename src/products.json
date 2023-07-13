@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Kurşun Kalem",
+        "price": 50,
+        "img": "https://st3.myideasoft.com/idea/al/14/myassets/products/356/naturenotesdogalkursunkalem.jpg?revision=1596436798"
+    },
+    {
+        "id": 2,
+        "name": "Defter",
+        "price": 100,
+        "img": "https://st.myideasoft.com/idea/an/79/myassets/products/005/gipta-bx-notes-a4-180-yaprak-spiralli-separatorlu-plastik-kapakli-defter-11108870.jpeg?revision=1672666598"
+    },
+    {
+        "id": 3,
+        "name": "Silgi",
+        "price": 20,
+        "img": "https://cdn.akakce.com/faber-castell/faber-castell-dust-free-sinav-z.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Soru Bankası",
+        "price": 250,
+        "img": "https://cdn.karakok.net/krm/cozum/img/prod/3DTYTSBMT0022_20220624123047753.jpg"
+    }
+]
